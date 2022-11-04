@@ -1,5 +1,5 @@
 ## Hey! I'm Sadiq Khan 👋 
-### I'm a Software Developer, Debater and Technical Blogger from Gurgaon, India.
+### I'm a Software Developer, UI/UX Designer and Social Worker from Gurgaon, India.
 - 👨‍💻 My last role was as a **Front End Developer Intern** at **Competent Lifters**.
 - 👨‍🎓 I'm an IT engineering junior specializing in Network Security at **NSUT, Delhi**.
 - 💡 I'm **currently learning** NLP and Neural Networks.
