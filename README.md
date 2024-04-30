@@ -1,6 +1,6 @@
 ## Hey! I'm Sadiq Khan 👋 
-### I'm a Software Developer and CyberSecurity Analyst, hailing from New Delhi, India.
-- 👨‍💻 My current role is a **CyberSecurity Analyst** at **Competent Lifters**.
+### I'm a Software Developer and Cyber Security Analyst, from New Delhi, India.
+- 👨‍💻 My current role is a **Cyber Security Analyst** at **Competent Lifters**.
 - 👨‍🎓 I'm an IT engineering senior specializing in Network and Information Security at **NSUT, Delhi**.
 - 💡 I'm **currently learning** GenAI and LLMs; have worked with WebDev, UI/UX and various other roles before.
 - 💬 **Ask me** about GenAI, LLMs or anything related to the latest tech.
