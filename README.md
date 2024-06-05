@@ -6,5 +6,7 @@ I am a Software Developer and Cyber Security Analyst with a strong passion for C
 - 💬 **Ask me** about GenAI, LLMs or anything related to the latest tech.
 
 ### 🌐 Connect with me : 
+<p align = "center">
  <a href="mailto:sadiqkhan795@gmail.com"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/gmail.svg" width="30px" alt="mail"></a> &nbsp; &nbsp;
   <a href="https://www.linkedin.com/in/sadiqkhzn/" target="_blank"><img src="https://github.com/deut-erium/deut-erium/blob/master/assets/linkedin.svg" width="30px" alt="LinkedIn"></a> &nbsp; &nbsp;
+</p>
