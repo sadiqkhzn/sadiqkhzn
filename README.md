@@ -1,5 +1,5 @@
 ## Hey! I'm Sadiq Khan 👋 
-### I am a Software Developer and Cyber Security Analyst with a strong passion for Cybersecurity and Cryptography. My interests also extend to product and data analysis, allowing me to use technology with practical insights to drive innovation in various projects.
+I am a Software Developer and Cyber Security Analyst with a strong passion for Cybersecurity and Cryptography. My interests also extend to product and data analysis, allowing me to use technology with practical insights to drive innovation in various projects.
 - 👨‍💻 My current role is a **Cyber Security Analyst** at **Competent Lifters**.
 - 👨‍🎓 I'm an IT engineering senior specializing in Network and Information Security at **NSUT, Delhi**.
 - 💡 I'm **currently learning** GenAI, LLMs and exploring various fields in CS; have also worked with WebDev, UI/UX and other roles before.
