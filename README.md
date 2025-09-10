@@ -5,7 +5,7 @@ I'm a Backend-Focused Software Engineer who loves building clean, scalable syste
 ## What I Do
 
 - Backend systems, data pipelines, and robust APIs — especially those tied to business impact.
-- Currently at **Suprdense**, building scalable infrastructure and integration layers for B2B clients.
+- Currently at **Suprdense**, building scalable infrastructure and integration layers for B2B and B2C clients.
 - Previously at **Competent Lifters**, developing core software solutions and backend services.
 - Solved over **1500+ LeetCode problems** — passionate about breaking down and solving complex problems.
 - Finalist at **Jumpstart Hackathon**, former **TEDx organizer**, and multi-time **Olympiad medalist**.
